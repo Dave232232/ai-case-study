@@ -1,7 +1,7 @@
 # Averroes AI Case Study
 ## **Overview and Origin**
 - Company Name: Averroes AI
-- Founded: 2021^1,3^
+- Founded: 2021[1,3]
 - Founder:  Tareq Aljaber^2,3^
 - Location: Headquartered in San Mateo CA, US^1,3^
 - Funding: Privately held.  Backed by venture capital including Plug and Play Tech Center and Shorooq Partners.^17,18^
